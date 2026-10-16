@@ -1,0 +1,3 @@
+This folder is managed by twistus_fov. Do not edit generated .meta files.
+Run twistus_fov_apply from the server console, then restart the server
+when adding a new weapon so FiveM can discover the generated files.

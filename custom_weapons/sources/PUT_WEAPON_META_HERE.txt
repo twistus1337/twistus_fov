@@ -1,0 +1,9 @@
+Add one subfolder per addon weapon.
+
+Example:
+custom_weapons/sources/my_weapon/weapons.meta
+
+Copy the original weapons.meta into the new folder. Leave all models, textures,
+and other metadata in the weapon's original resource. Do not delete the
+original weapon metadata registration until you have generated this resource's
+replacement file and completed the setup described in README.md.
